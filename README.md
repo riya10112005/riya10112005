@@ -8,17 +8,15 @@
 
 ---
 
-## 🌸 About Me
-
-```python
-class Riya:
-    name       = "Riya Bhowmik"
-    username   = "riya10112005"
-    pronouns   = "she/her"
-    passion    = ["Coding", "Problem Solving", "Building Things"]
-    currently  = ["Data Structures & Algorithms", "Web Development", "Python"]
-    goal       = "Become a software developer and build products that matter"
-    fun_fact   = "I debug with snacks 🍕"
+🌸 About Me
+    class Riya:<br>
+        name       = “Riya Bhowmik”<br>
+        username  = “riya10112005”<br>
+        pronouns  = “she/her”<br>
+        passion   = [“Coding”, “Problem Solving”, “Building Things”]<br>
+        currently = [“DSA”, “Web Development”, “Python”]<br>
+        goal      = “Become a software developer”<br>
+        fun_fact  = “I debug with snacks 🍕”
 ---
 
 
