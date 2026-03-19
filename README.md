@@ -10,6 +10,7 @@
 
 ## 🌸 About Me
 
+```python
 class Riya:
     name       = "Riya Bhowmik"
     username   = "riya10112005"
