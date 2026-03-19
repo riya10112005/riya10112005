@@ -10,7 +10,6 @@
 
 ## 🌸 About Me
 
-```python
 class Riya:
     name       = "Riya Bhowmik"
     username   = "riya10112005"
@@ -20,7 +19,9 @@ class Riya:
     goal       = "Become a software developer and build products that matter"
     fun_fact   = "I debug with snacks 🍕"
 ---
-🛠️ Tech Stack
+
+
+##🛠️ Tech Stack
 <div align="center">
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -30,43 +31,45 @@ class Riya:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 </div>
+---
 
 
-📊 GitHub Stats
+##📊 GitHub Stats
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=riya10112005&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya10112005&layout=compact&theme=radical&hide_border=true" height="165"/></div>
 <div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=riya10112005&theme=radical&hide_border=true)](https://git.io/streak-stats)
 </div>
+---
 
-
-🚀 Projects
+##🚀 Projects
   🔐 [Password Generator](https://github.com/riya10112005/Password-Generator-) | Generates strong, secure passwords | Python |
   🌐 Coming Soon | Personal Portfolio Website | HTML, CSS, JS |
   🧠 Coming Soon | DSA Practice Tracker | Python |
+---
 
-
-📅 Currently Learning
+##📅 Currently Learning
 	∙	🔁 DSA: Arrays, Linked Lists, Recursion
 	∙	🌐 Web Dev: Responsive design, JavaScript DOM
 	∙	🐍 Python: OOP, File Handling, Projects
+---
 
-
-🎯 2025 Goals
+##🎯 2025 Goals
 	∙	Solve 100+ DSA problems
 	∙	Build 5 projects for portfolio
 	∙	Contribute to open source
 	∙	Get first internship/opportunity
 	∙	Keep the GitHub streak alive 🔥
+---
 
-
-📬 Connect With Me
+##📬 Connect With Me
 <div align="center">
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riyaabhowmik2005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riya10112005)
 </div>
+---
 
-
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>“Every expert was once a beginner. Keep going! 💪”
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>*“Every expert was once a beginner. Keep going! 💪”*
+</div>
 </div>
 ```
