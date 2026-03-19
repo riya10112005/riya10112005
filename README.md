@@ -67,10 +67,13 @@
 	∙	Keep the GitHub streak alive 🔥
 ---
 
-##📬 Connect With Me
+## 📬 Connect With Me
+
 <div align="center">
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riyaabhowmik2005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riya10112005)
+
 </div>
 
 
