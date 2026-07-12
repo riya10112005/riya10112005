@@ -36,10 +36,12 @@
 🚀 Projects
 DevPulse — GitHub Activity Dashboard
 A real-time dashboard that tracks a GitHub user’s coding activity, streaks, language breakdown, and contribution heatmap, with email digest alerts. Built using the GitHub API, WebSockets, and cron jobs.
-🔗 Live Demo
+🔗 Live Demo - https://devpulse-tau-olive.vercel.app
+
 Real-Time Chat App
 A real-time messaging app built with WebSockets for instant two-way communication.
-🔗 Live Demo
+🔗 Live Demo - https://chatapp-neon-delta.vercel.app
+
 AI Resume Analyzer (in progress)
 An AI-powered tool that scores a resume against a job description and highlights matching/missing skills. Built with Python, PDF parsing, and an AI API.
 
